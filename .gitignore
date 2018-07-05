@@ -1,1 +1,3 @@
-node_modules
+[Nn]ode_modules
+
+connectionFactory.js
